@@ -6,7 +6,7 @@ This project was born as a school project in the TIC1.
 ## Installation
 Clone our repo:
 
-    git clone git@sarkachwastkova.cz:/opt/git/tic1project.git
+    git clone git@github.com:jstangle/shacol.git
     cd tic1project
 
 ###Install required packages:
