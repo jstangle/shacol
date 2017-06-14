@@ -9,7 +9,7 @@ Clone our repo:
     git clone git@github.com:jstangle/shacol.git
     cd tic1project
 
-###Install required packages:
+### Install required packages:
 
 #### Fedora:
     
