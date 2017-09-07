@@ -1,8 +1,12 @@
 mariadb
+python3-redis
 python3-mysql
-python3-PyMySQL.noarch
+python3-PyMySQL
 python3-devel
+python3-Cython
 python3-pip
+python3-GitPython
+python3-psutil
 mariadb-devel
 gcc-c++
 redhat-rpm-config
